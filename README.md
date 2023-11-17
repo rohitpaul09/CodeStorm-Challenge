@@ -7,7 +7,5 @@ In the CodeStorm Challenge, participants engage in a rigorous coding competition
 <a href="https://youtu.be/DNpfxfqYAgg?si=n20AxavzsV7-Semo" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://github.com/rohitpaul09" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
+<a href="https://colab.research.google.com/drive/1peg_ZamX0_38DOfAjot6O8v0EsHKaDfH?usp=sharing" target="_blank"><img style="margin: 10px" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Excel" height="50" />
+</a>  
